@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\Array\bin\Debug\netcoreapp2.0\Array.deps.json
+D:\Practice\csharp_console\Array\bin\Debug\netcoreapp2.0\Array.runtimeconfig.json
+D:\Practice\csharp_console\Array\bin\Debug\netcoreapp2.0\Array.runtimeconfig.dev.json
+D:\Practice\csharp_console\Array\bin\Debug\netcoreapp2.0\Array.dll
+D:\Practice\csharp_console\Array\bin\Debug\netcoreapp2.0\Array.pdb
+D:\Practice\csharp_console\Array\obj\Debug\netcoreapp2.0\Array.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\Array\obj\Debug\netcoreapp2.0\Array.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\Array\obj\Debug\netcoreapp2.0\Array.AssemblyInfo.cs
+D:\Practice\csharp_console\Array\obj\Debug\netcoreapp2.0\Array.dll
+D:\Practice\csharp_console\Array\obj\Debug\netcoreapp2.0\Array.pdb

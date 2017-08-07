@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\For_loop\bin\Debug\netcoreapp2.0\For_loop.deps.json
+D:\Practice\csharp_console\For_loop\bin\Debug\netcoreapp2.0\For_loop.runtimeconfig.json
+D:\Practice\csharp_console\For_loop\bin\Debug\netcoreapp2.0\For_loop.runtimeconfig.dev.json
+D:\Practice\csharp_console\For_loop\bin\Debug\netcoreapp2.0\For_loop.dll
+D:\Practice\csharp_console\For_loop\bin\Debug\netcoreapp2.0\For_loop.pdb
+D:\Practice\csharp_console\For_loop\obj\Debug\netcoreapp2.0\For_loop.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\For_loop\obj\Debug\netcoreapp2.0\For_loop.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\For_loop\obj\Debug\netcoreapp2.0\For_loop.AssemblyInfo.cs
+D:\Practice\csharp_console\For_loop\obj\Debug\netcoreapp2.0\For_loop.dll
+D:\Practice\csharp_console\For_loop\obj\Debug\netcoreapp2.0\For_loop.pdb

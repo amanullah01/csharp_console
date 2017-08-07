@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\nullable_k\obj\Debug\netcoreapp2.0\nullable_k.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\nullable_k\obj\Debug\netcoreapp2.0\nullable_k.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\nullable_k\obj\Debug\netcoreapp2.0\nullable_k.AssemblyInfo.cs
+D:\Practice\csharp_console\nullable_k\bin\Debug\netcoreapp2.0\nullable_k.deps.json
+D:\Practice\csharp_console\nullable_k\bin\Debug\netcoreapp2.0\nullable_k.runtimeconfig.json
+D:\Practice\csharp_console\nullable_k\bin\Debug\netcoreapp2.0\nullable_k.runtimeconfig.dev.json
+D:\Practice\csharp_console\nullable_k\bin\Debug\netcoreapp2.0\nullable_k.dll
+D:\Practice\csharp_console\nullable_k\bin\Debug\netcoreapp2.0\nullable_k.pdb
+D:\Practice\csharp_console\nullable_k\obj\Debug\netcoreapp2.0\nullable_k.dll
+D:\Practice\csharp_console\nullable_k\obj\Debug\netcoreapp2.0\nullable_k.pdb

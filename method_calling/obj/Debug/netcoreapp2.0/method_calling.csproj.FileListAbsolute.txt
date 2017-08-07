@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\method_calling\obj\Debug\netcoreapp2.0\method_calling.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\method_calling\obj\Debug\netcoreapp2.0\method_calling.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\method_calling\obj\Debug\netcoreapp2.0\method_calling.AssemblyInfo.cs
+D:\Practice\csharp_console\method_calling\bin\Debug\netcoreapp2.0\method_calling.deps.json
+D:\Practice\csharp_console\method_calling\bin\Debug\netcoreapp2.0\method_calling.runtimeconfig.json
+D:\Practice\csharp_console\method_calling\bin\Debug\netcoreapp2.0\method_calling.runtimeconfig.dev.json
+D:\Practice\csharp_console\method_calling\bin\Debug\netcoreapp2.0\method_calling.dll
+D:\Practice\csharp_console\method_calling\bin\Debug\netcoreapp2.0\method_calling.pdb
+D:\Practice\csharp_console\method_calling\obj\Debug\netcoreapp2.0\method_calling.dll
+D:\Practice\csharp_console\method_calling\obj\Debug\netcoreapp2.0\method_calling.pdb

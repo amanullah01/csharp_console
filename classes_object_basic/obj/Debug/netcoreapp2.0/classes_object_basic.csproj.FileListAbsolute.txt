@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\classes_object_basic\bin\Debug\netcoreapp2.0\classes_object_basic.deps.json
+D:\Practice\csharp_console\classes_object_basic\bin\Debug\netcoreapp2.0\classes_object_basic.runtimeconfig.json
+D:\Practice\csharp_console\classes_object_basic\bin\Debug\netcoreapp2.0\classes_object_basic.runtimeconfig.dev.json
+D:\Practice\csharp_console\classes_object_basic\bin\Debug\netcoreapp2.0\classes_object_basic.dll
+D:\Practice\csharp_console\classes_object_basic\bin\Debug\netcoreapp2.0\classes_object_basic.pdb
+D:\Practice\csharp_console\classes_object_basic\obj\Debug\netcoreapp2.0\classes_object_basic.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\classes_object_basic\obj\Debug\netcoreapp2.0\classes_object_basic.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\classes_object_basic\obj\Debug\netcoreapp2.0\classes_object_basic.AssemblyInfo.cs
+D:\Practice\csharp_console\classes_object_basic\obj\Debug\netcoreapp2.0\classes_object_basic.dll
+D:\Practice\csharp_console\classes_object_basic\obj\Debug\netcoreapp2.0\classes_object_basic.pdb

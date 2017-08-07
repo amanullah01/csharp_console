@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\Foreach_loop\bin\Debug\netcoreapp2.0\Foreach_loop.deps.json
+D:\Practice\csharp_console\Foreach_loop\bin\Debug\netcoreapp2.0\Foreach_loop.runtimeconfig.json
+D:\Practice\csharp_console\Foreach_loop\bin\Debug\netcoreapp2.0\Foreach_loop.runtimeconfig.dev.json
+D:\Practice\csharp_console\Foreach_loop\bin\Debug\netcoreapp2.0\Foreach_loop.dll
+D:\Practice\csharp_console\Foreach_loop\bin\Debug\netcoreapp2.0\Foreach_loop.pdb
+D:\Practice\csharp_console\Foreach_loop\obj\Debug\netcoreapp2.0\Foreach_loop.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\Foreach_loop\obj\Debug\netcoreapp2.0\Foreach_loop.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\Foreach_loop\obj\Debug\netcoreapp2.0\Foreach_loop.AssemblyInfo.cs
+D:\Practice\csharp_console\Foreach_loop\obj\Debug\netcoreapp2.0\Foreach_loop.dll
+D:\Practice\csharp_console\Foreach_loop\obj\Debug\netcoreapp2.0\Foreach_loop.pdb

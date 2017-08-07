@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\types_k\bin\Debug\netcoreapp2.0\types_k.deps.json
+D:\Practice\csharp_console\types_k\bin\Debug\netcoreapp2.0\types_k.runtimeconfig.json
+D:\Practice\csharp_console\types_k\bin\Debug\netcoreapp2.0\types_k.runtimeconfig.dev.json
+D:\Practice\csharp_console\types_k\bin\Debug\netcoreapp2.0\types_k.dll
+D:\Practice\csharp_console\types_k\bin\Debug\netcoreapp2.0\types_k.pdb
+D:\Practice\csharp_console\types_k\obj\Debug\netcoreapp2.0\types_k.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\types_k\obj\Debug\netcoreapp2.0\types_k.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\types_k\obj\Debug\netcoreapp2.0\types_k.AssemblyInfo.cs
+D:\Practice\csharp_console\types_k\obj\Debug\netcoreapp2.0\types_k.dll
+D:\Practice\csharp_console\types_k\obj\Debug\netcoreapp2.0\types_k.pdb

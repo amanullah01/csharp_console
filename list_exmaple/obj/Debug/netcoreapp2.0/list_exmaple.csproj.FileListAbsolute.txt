@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\list_exmaple\bin\Debug\netcoreapp2.0\list_exmaple.deps.json
+D:\Practice\csharp_console\list_exmaple\bin\Debug\netcoreapp2.0\list_exmaple.runtimeconfig.json
+D:\Practice\csharp_console\list_exmaple\bin\Debug\netcoreapp2.0\list_exmaple.runtimeconfig.dev.json
+D:\Practice\csharp_console\list_exmaple\bin\Debug\netcoreapp2.0\list_exmaple.dll
+D:\Practice\csharp_console\list_exmaple\bin\Debug\netcoreapp2.0\list_exmaple.pdb
+D:\Practice\csharp_console\list_exmaple\obj\Debug\netcoreapp2.0\list_exmaple.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\list_exmaple\obj\Debug\netcoreapp2.0\list_exmaple.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\list_exmaple\obj\Debug\netcoreapp2.0\list_exmaple.AssemblyInfo.cs
+D:\Practice\csharp_console\list_exmaple\obj\Debug\netcoreapp2.0\list_exmaple.dll
+D:\Practice\csharp_console\list_exmaple\obj\Debug\netcoreapp2.0\list_exmaple.pdb

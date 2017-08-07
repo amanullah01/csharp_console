@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\lambda_exp\bin\Debug\netcoreapp2.0\lambda_exp.deps.json
+D:\Practice\csharp_console\lambda_exp\bin\Debug\netcoreapp2.0\lambda_exp.runtimeconfig.json
+D:\Practice\csharp_console\lambda_exp\bin\Debug\netcoreapp2.0\lambda_exp.runtimeconfig.dev.json
+D:\Practice\csharp_console\lambda_exp\bin\Debug\netcoreapp2.0\lambda_exp.dll
+D:\Practice\csharp_console\lambda_exp\bin\Debug\netcoreapp2.0\lambda_exp.pdb
+D:\Practice\csharp_console\lambda_exp\obj\Debug\netcoreapp2.0\lambda_exp.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\lambda_exp\obj\Debug\netcoreapp2.0\lambda_exp.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\lambda_exp\obj\Debug\netcoreapp2.0\lambda_exp.AssemblyInfo.cs
+D:\Practice\csharp_console\lambda_exp\obj\Debug\netcoreapp2.0\lambda_exp.dll
+D:\Practice\csharp_console\lambda_exp\obj\Debug\netcoreapp2.0\lambda_exp.pdb

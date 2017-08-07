@@ -1,0 +1,13 @@
+D:\Practice\csharp_console\Lists\obj\Debug\netcoreapp2.0\Lists.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\Lists\obj\Debug\netcoreapp2.0\Lists.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\Lists\obj\Debug\netcoreapp2.0\Lists.AssemblyInfo.cs
+D:\Practice\csharp_console\list_type\bin\Debug\netcoreapp2.0\Lists.deps.json
+D:\Practice\csharp_console\list_type\bin\Debug\netcoreapp2.0\Lists.runtimeconfig.json
+D:\Practice\csharp_console\list_type\bin\Debug\netcoreapp2.0\Lists.runtimeconfig.dev.json
+D:\Practice\csharp_console\list_type\bin\Debug\netcoreapp2.0\Lists.dll
+D:\Practice\csharp_console\list_type\bin\Debug\netcoreapp2.0\Lists.pdb
+D:\Practice\csharp_console\list_type\obj\Debug\netcoreapp2.0\Lists.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\list_type\obj\Debug\netcoreapp2.0\Lists.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\list_type\obj\Debug\netcoreapp2.0\Lists.AssemblyInfo.cs
+D:\Practice\csharp_console\list_type\obj\Debug\netcoreapp2.0\Lists.dll
+D:\Practice\csharp_console\list_type\obj\Debug\netcoreapp2.0\Lists.pdb

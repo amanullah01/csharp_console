@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.deps.json
+D:\Practice\csharp_console\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.runtimeconfig.json
+D:\Practice\csharp_console\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.runtimeconfig.dev.json
+D:\Practice\csharp_console\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.dll
+D:\Practice\csharp_console\switch_statement\bin\Debug\netcoreapp2.0\switch_statement.pdb
+D:\Practice\csharp_console\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.AssemblyInfo.cs
+D:\Practice\csharp_console\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.dll
+D:\Practice\csharp_console\switch_statement\obj\Debug\netcoreapp2.0\switch_statement.pdb

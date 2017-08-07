@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\do_while_k\bin\Debug\netcoreapp2.0\do_while_k.deps.json
+D:\Practice\csharp_console\do_while_k\bin\Debug\netcoreapp2.0\do_while_k.runtimeconfig.json
+D:\Practice\csharp_console\do_while_k\bin\Debug\netcoreapp2.0\do_while_k.runtimeconfig.dev.json
+D:\Practice\csharp_console\do_while_k\bin\Debug\netcoreapp2.0\do_while_k.dll
+D:\Practice\csharp_console\do_while_k\bin\Debug\netcoreapp2.0\do_while_k.pdb
+D:\Practice\csharp_console\do_while_k\obj\Debug\netcoreapp2.0\do_while_k.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\do_while_k\obj\Debug\netcoreapp2.0\do_while_k.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\do_while_k\obj\Debug\netcoreapp2.0\do_while_k.AssemblyInfo.cs
+D:\Practice\csharp_console\do_while_k\obj\Debug\netcoreapp2.0\do_while_k.dll
+D:\Practice\csharp_console\do_while_k\obj\Debug\netcoreapp2.0\do_while_k.pdb

@@ -1,0 +1,10 @@
+D:\Practice\csharp_console\y_datatype_conversion\bin\Debug\netcoreapp2.0\y_datatype_conversion.deps.json
+D:\Practice\csharp_console\y_datatype_conversion\bin\Debug\netcoreapp2.0\y_datatype_conversion.runtimeconfig.json
+D:\Practice\csharp_console\y_datatype_conversion\bin\Debug\netcoreapp2.0\y_datatype_conversion.runtimeconfig.dev.json
+D:\Practice\csharp_console\y_datatype_conversion\bin\Debug\netcoreapp2.0\y_datatype_conversion.dll
+D:\Practice\csharp_console\y_datatype_conversion\bin\Debug\netcoreapp2.0\y_datatype_conversion.pdb
+D:\Practice\csharp_console\y_datatype_conversion\obj\Debug\netcoreapp2.0\y_datatype_conversion.csproj.CoreCompileInputs.cache
+D:\Practice\csharp_console\y_datatype_conversion\obj\Debug\netcoreapp2.0\y_datatype_conversion.AssemblyInfoInputs.cache
+D:\Practice\csharp_console\y_datatype_conversion\obj\Debug\netcoreapp2.0\y_datatype_conversion.AssemblyInfo.cs
+D:\Practice\csharp_console\y_datatype_conversion\obj\Debug\netcoreapp2.0\y_datatype_conversion.dll
+D:\Practice\csharp_console\y_datatype_conversion\obj\Debug\netcoreapp2.0\y_datatype_conversion.pdb

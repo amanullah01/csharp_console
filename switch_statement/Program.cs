@@ -6,9 +6,9 @@ namespace switch_statement
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("**************************************");
-            Console.WriteLine("****Welcome to our coffee shop********");
-            Console.WriteLine("**************************************");
+            Console.WriteLine("***************************************");
+            Console.WriteLine("******Welcome to our coffee shop*******");
+            Console.WriteLine("***************************************");
 
             int price = 0;
             Start:
